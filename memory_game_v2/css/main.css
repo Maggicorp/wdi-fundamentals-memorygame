@@ -1,0 +1,139 @@
+body {
+	text-align: center;
+	margin: 0;
+}
+header {
+	background-color: #000A8F;
+	padding: 30px 20px;
+}
+nav {
+	background-color: #64BBED;
+	padding: 20px 0;
+	color: white;
+}
+a{
+	text-decoration: none;
+	margin: 0 20px;
+	border-bottom: 2px solid transparent;
+	color: white;
+}
+button {
+	float: left;
+	width: 150px;
+	background-color: #000A8F;
+	border-radius: 20px;
+	color: white;
+	font-family: "Raleway", sans-serif;
+	font-size: .9em;
+	height: 40px;
+}
+#scoreBoard {
+	float: right;
+	width: 130px;
+	background-color: #000A8F;
+	color: white;
+	font-family: "Raleway", sans-serif;
+	font-size: 1em;
+	padding: 1px;
+	margin: 5px;
+	height: 30px;
+}
+button:hover {
+	background: #64BBED;
+}
+#progress {
+	background:  #64BBED;
+	color: white;
+	width: 450px;
+	font-size: 1em;
+	height: 30px;
+	margin: 5px auto;
+	padding: 1px;
+}
+a:hover {
+	border-bottom: 2px solid white;
+}
+main {
+	width: 850px;
+	margin: 35px auto;
+}
+img {
+	margin: 40px 8px 0 8px;
+	box-shadow: black 6px 5px 6px;
+	border: solid white 1px;
+}
+h2 {
+	font-family: "Raleway", sans-serif;
+	font-weight: 600;
+	letter-spacing: 1px;
+	font-size: 18px;
+	text-decoration: none;
+	text-transform: uppercase;;
+}
+h1 {
+	font-family: "Raleway", sans-serif;
+	font-weight: 400;
+	color: white;
+	letter-spacing: 1px;
+	font-size: 45px;
+	text-transform: uppercase;
+	margin: 0;
+}
+h3 {
+	font-family: "Raleway", sans-serif;
+	font-weight: 400;
+	color: #0d2c40;
+	letter-spacing: 1px;
+	font-size: 20px;
+	text-transform: uppercase;
+}
+p {
+	font-family: "Droid Serif", serif;
+	line-height: 26px;
+	font-size: 18px;
+}
+footer {
+	text-transform: uppercase;
+	padding: 0 20px;
+	background: #0D2C40;
+	color: white;
+	font-size: 14px;
+	letter-spacing: .08em;
+	font-weight: 500;
+}
+.copyright {
+	font-family: "Raleway", sans-serif;
+	float: left;
+}
+.message {
+	font-family: "Raleway", sans-serif;
+	float: right;
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
+.name {
+	color: #EF393C;
+	font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
